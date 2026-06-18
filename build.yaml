@@ -24,3 +24,5 @@ include:
     snippet: studio-rpc-usb-uart
   - board: nice_nano//zmk
     shield: splitkb_aurora_lily58_right
+  - board: nice_nano//zmk
+    shield: settings_reset
