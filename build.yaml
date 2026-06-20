@@ -22,6 +22,6 @@ include:
     shield: lily58_left
     snippet: studio-rpc-usb-uart
   - board: nice_nano//zmk
-    shield: splitkb_aurora_lily58_right nice_view_adapter nice_view_gew
+    shield: splitkb_aurora_lily58_right nice_view_adapter nice_view_gem
   - board: nice_nano//zmk
     shield: settings_reset
